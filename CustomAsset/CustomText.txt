@@ -1,1 +1,5 @@
 Random text
+
+-----
+
+Adding new update to commit - 1
